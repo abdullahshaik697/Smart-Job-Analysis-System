@@ -1,0 +1,4 @@
+@import "@heroui/styles";
+
+/* Dark Mode */
+@custom-variant dark (&:where(.dark, .dark *));
